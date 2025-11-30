@@ -22,10 +22,10 @@ Typical columns used:
 
 ## 🧭 How to run this project
 1. Clone the repo
-```bash
+bash
 git clone <repo-url>
 cd HR-Analytics-Employee-Attrition
-2. Load dataset
+3. Load dataset
 
 Place employee_data.csv in /dataset folder.
 
